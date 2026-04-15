@@ -1,0 +1,21 @@
+build/
+.o
+.exe
+.out
+tcpserver_cmake
+tcpserver_cmake.exe
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# CMake 生成文件
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# 临时文件
+*.tmp
+*.log
