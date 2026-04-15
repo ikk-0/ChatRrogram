@@ -2,7 +2,7 @@
 #include <signal.h>
 
 #define SER_PORT 8888
-#define SER_IP "0.0.0.0"            //192.168.215.15
+#define SER_IP "0.0.0.0"            //192.168.233.129 
 
 TcpServer *g_server = nullptr;
 
