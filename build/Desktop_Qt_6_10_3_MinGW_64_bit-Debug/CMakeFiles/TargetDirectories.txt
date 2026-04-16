@@ -1,0 +1,9 @@
+D:/WorkApps/QT/Workfiles/Project/TcpClient/build/Desktop_Qt_6_10_3_MinGW_64_bit-Debug/CMakeFiles/TcpClient.dir
+D:/WorkApps/QT/Workfiles/Project/TcpClient/build/Desktop_Qt_6_10_3_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/WorkApps/QT/Workfiles/Project/TcpClient/build/Desktop_Qt_6_10_3_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/WorkApps/QT/Workfiles/Project/TcpClient/build/Desktop_Qt_6_10_3_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+D:/WorkApps/QT/Workfiles/Project/TcpClient/build/Desktop_Qt_6_10_3_MinGW_64_bit-Debug/CMakeFiles/install.dir
+D:/WorkApps/QT/Workfiles/Project/TcpClient/build/Desktop_Qt_6_10_3_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+D:/WorkApps/QT/Workfiles/Project/TcpClient/build/Desktop_Qt_6_10_3_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+D:/WorkApps/QT/Workfiles/Project/TcpClient/build/Desktop_Qt_6_10_3_MinGW_64_bit-Debug/CMakeFiles/TcpClient_autogen_timestamp_deps.dir
+D:/WorkApps/QT/Workfiles/Project/TcpClient/build/Desktop_Qt_6_10_3_MinGW_64_bit-Debug/CMakeFiles/TcpClient_autogen.dir

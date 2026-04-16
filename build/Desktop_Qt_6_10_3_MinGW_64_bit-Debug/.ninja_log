@@ -1,0 +1,10 @@
+# ninja log v7
+5	674	7980067864641462	TcpClient_autogen/timestamp	24570da27e40b55d
+5	674	7980067864641462	TcpClient_autogen/mocs_compilation.cpp	24570da27e40b55d
+5	674	7980067864641462	D:/WorkApps/QT/Workfiles/Project/TcpClient/build/Desktop_Qt_6_10_3_MinGW_64_bit-Debug/TcpClient_autogen/timestamp	24570da27e40b55d
+5	674	7980067864641462	D:/WorkApps/QT/Workfiles/Project/TcpClient/build/Desktop_Qt_6_10_3_MinGW_64_bit-Debug/TcpClient_autogen/mocs_compilation.cpp	24570da27e40b55d
+686	3308	7980067865369726	CMakeFiles/TcpClient.dir/client.cpp.obj	e9ed23da000fd112
+679	3609	7980067865301879	CMakeFiles/TcpClient.dir/TcpClient_autogen/mocs_compilation.cpp.obj	ef93539901d3295f
+683	3690	7980067865341927	CMakeFiles/TcpClient.dir/ClientWidget.cpp.obj	5d6bbe29a9e0cef3
+681	5315	7980067865321911	CMakeFiles/TcpClient.dir/main.cpp.obj	2b51fdfd4c15797e
+5315	5889	7980067911656193	TcpClient.exe	c6a4a6807a1faffd
